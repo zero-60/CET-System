@@ -1,0 +1,48 @@
+{
+  "question_id": "cet4_2026_06_paper1_passage01",
+  "type": "listening",
+  "title": "听力短文一",
+  "exam": {
+    "level": "cet4",
+    "year": 2026,
+    "session": "06",
+    "paper": "1"
+  },
+  "content": {
+    "subtype": "passage",
+    "audio_url": "/audio/cet4/2026-06/paper1/full.mp3",
+    "duration_seconds": 1101.009,
+    "questions": [
+      {
+        "question_no": 16,
+        "stem": "Question 16（具体问题见录音）",
+        "options": {
+          "A": "They do not tell marketers their feeling about a product.",
+          "B": "They do not compare competing brands and prices.",
+          "C": "They are not hesitant to contradict themselves.",
+          "D": "They are not sure what they really like to buy."
+        }
+      },
+      {
+        "question_no": 17,
+        "stem": "Question 17（具体问题见录音）",
+        "options": {
+          "A": "Consumers are often attracted by new products.",
+          "B": "Consumers tend to make decisions on the spot.",
+          "C": "Consumers find it hard to resist temptation.",
+          "D": "Consumers are actually driven by emotion."
+        }
+      },
+      {
+        "question_no": 18,
+        "stem": "Question 18（具体问题见录音）",
+        "options": {
+          "A": "Draw consumers' attention to the luxury goods symbolizing quality life.",
+          "B": "Leave consumers the impression they are doing nothing manipulative.",
+          "C": "Highlight the emotional response it will trigger in the consumer.",
+          "D": "Remind consumers of the wide connections it can help to build."
+        }
+      }
+    ]
+  }
+}

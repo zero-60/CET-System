@@ -1,0 +1,41 @@
+{
+  "question_id": "cet4_YYYYMM_paper1_news01",
+  "type": "listening",
+  "title": "请替换为真实材料标题",
+  "exam": {
+    "level": "cet4",
+    "year": 2025,
+    "session": "06",
+    "paper": "1"
+  },
+  "content": {
+    "subtype": "news",
+    "audio_url": "/audio/cet4/YYYY-MM/paper1/news01.mp3",
+    "duration_seconds": 0,
+    "time_range": {
+      "start": 0,
+      "end": 0
+    },
+    "questions": [
+      {
+        "question_no": 1,
+        "stem": "请替换为真实题干",
+        "options": {
+          "A": "请替换为选项 A",
+          "B": "请替换为选项 B",
+          "C": "请替换为选项 C",
+          "D": "请替换为选项 D"
+        },
+        "transcript_segment_ids": []
+      }
+    ],
+    "transcript": [
+      {
+        "index": 1,
+        "start": 0.0,
+        "end": 3.2,
+        "text": "请替换为真实字幕文本，并校对时间戳。"
+      }
+    ]
+  }
+}

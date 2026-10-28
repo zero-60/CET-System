@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "papers": [
+    {
+      "paper_id": "cet4_2026_06_paper1",
+      "title": "2026 年 6 月四级第 1 套",
+      "level": "cet4",
+      "source": "用户提供的《四级2026-06-1-真题.pdf》扫描页（听力页 2–4）",
+      "audio_url": "/audio/cet4/2026-06/paper1/full.mp3",
+      "audio_duration_seconds": 1101.009,
+      "audio_note": "仅有完整听力合集，尚未核验每组起止时间；不能称作已切分音频。",
+      "question_note": "原卷印刷的是选项；具体听力问题通常在录音中朗读，所以暂以 Question n 标示，不编造题干。",
+      "review_status": "选项由扫描原卷人工转录，入正式题库前仍建议逐条与原卷复核",
+      "answer_status": "尚未做后端答案关联，不进行真实判分",
+      "transcript_status": "尚无 SRT / 已校对转写稿",
+      "materials": [
+        {
+          "question_id": "cet4_2026_06_paper1_news01",
+          "title": "短篇新闻一",
+          "subtype": "news",
+          "numbers": [
+            1,
+            2
+          ],
+          "file": "materials/cet4_2026_06_paper1_news01.json"
+        },
+        {
+          "question_id": "cet4_2026_06_paper1_news02",
+          "title": "短篇新闻二",
+          "subtype": "news",
+          "numbers": [
+            3,
+            4
+          ],
+          "file": "materials/cet4_2026_06_paper1_news02.json"
+        },
+        {
+          "question_id": "cet4_2026_06_paper1_news03",
+          "title": "短篇新闻三",
+          "subtype": "news",
+          "numbers": [
+            5,
+            6,
+            7
+          ],
+          "file": "materials/cet4_2026_06_paper1_news03.json"
+        },
+        {
+          "question_id": "cet4_2026_06_paper1_conversation01",
+          "title": "长对话一",
+          "subtype": "conversation",
+          "numbers": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "file": "materials/cet4_2026_06_paper1_conversation01.json"
+        },
+        {
+          "question_id": "cet4_2026_06_paper1_conversation02",
+          "title": "长对话二",
+          "subtype": "conversation",
+          "numbers": [
+            12,
+            13,
+            14,
+            15
+          ],
+          "file": "materials/cet4_2026_06_paper1_conversation02.json"
+        },
+        {
+          "question_id": "cet4_2026_06_paper1_passage01",
+          "title": "听力短文一",
+          "subtype": "passage",
+          "numbers": [
+            16,
+            17,
+            18
+          ],
+          "file": "materials/cet4_2026_06_paper1_passage01.json"
+        },
+        {
+          "question_id": "cet4_2026_06_paper1_passage02",
+          "title": "听力短文二",
+          "subtype": "passage",
+          "numbers": [
+            19,
+            20,
+            21
+          ],
+          "file": "materials/cet4_2026_06_paper1_passage02.json"
+        },
+        {
+          "question_id": "cet4_2026_06_paper1_passage03",
+          "title": "听力短文三",
+          "subtype": "passage",
+          "numbers": [
+            22,
+            23,
+            24,
+            25
+          ],
+          "file": "materials/cet4_2026_06_paper1_passage03.json"
+        }
+      ]
+    }
+  ]
+}

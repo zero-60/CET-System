@@ -1,0 +1,58 @@
+{
+  "question_id": "cet4_2026_06_paper1_conversation01",
+  "type": "listening",
+  "title": "长对话一",
+  "exam": {
+    "level": "cet4",
+    "year": 2026,
+    "session": "06",
+    "paper": "1"
+  },
+  "content": {
+    "subtype": "conversation",
+    "audio_url": "/audio/cet4/2026-06/paper1/full.mp3",
+    "duration_seconds": 1101.009,
+    "questions": [
+      {
+        "question_no": 8,
+        "stem": "Question 8（具体问题见录音）",
+        "options": {
+          "A": "The coin collection.",
+          "B": "The primitive tools.",
+          "C": "The ancient ornaments.",
+          "D": "The 2,000-year-old clothes."
+        }
+      },
+      {
+        "question_no": 9,
+        "stem": "Question 9（具体问题见录音）",
+        "options": {
+          "A": "It is charming with narrow but beautiful streets.",
+          "B": "It attracts visitors from every corner of the world.",
+          "C": "It has flowers displayed around the Trevi Fountain.",
+          "D": "It is more attractive than the pictures in guidebooks."
+        }
+      },
+      {
+        "question_no": 10,
+        "stem": "Question 10（具体问题见录音）",
+        "options": {
+          "A": "It is covered with wild grass.",
+          "B": "It is very famous and pretty.",
+          "C": "It is located away from an old church.",
+          "D": "It is surrounded by Spanish-style houses."
+        }
+      },
+      {
+        "question_no": 11,
+        "stem": "Question 11（具体问题见录音）",
+        "options": {
+          "A": "Ask Kathy what her plan is.",
+          "B": "Tell Kathy Mike will join them.",
+          "C": "Ask Kathy if she'd like to see the square.",
+          "D": "Tell Kathy Mike would like to have a change."
+        }
+      }
+    ]
+  }
+}

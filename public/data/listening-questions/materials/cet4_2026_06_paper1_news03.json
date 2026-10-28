@@ -1,0 +1,48 @@
+{
+  "question_id": "cet4_2026_06_paper1_news03",
+  "type": "listening",
+  "title": "短篇新闻三",
+  "exam": {
+    "level": "cet4",
+    "year": 2026,
+    "session": "06",
+    "paper": "1"
+  },
+  "content": {
+    "subtype": "news",
+    "audio_url": "/audio/cet4/2026-06/paper1/full.mp3",
+    "duration_seconds": 1101.009,
+    "questions": [
+      {
+        "question_no": 5,
+        "stem": "Question 5（具体问题见录音）",
+        "options": {
+          "A": "Adjusting it.",
+          "B": "Suspending it.",
+          "C": "Reevaluating it.",
+          "D": "Expanding it."
+        }
+      },
+      {
+        "question_no": 6,
+        "stem": "Question 6（具体问题见录音）",
+        "options": {
+          "A": "They could buy an electric bike for $400 in April.",
+          "B": "They could buy their first electric bike at a discount.",
+          "C": "They could enjoy free after-sale service for their purchase.",
+          "D": "They could get $1,200 from government funds if they qualified."
+        }
+      },
+      {
+        "question_no": 7,
+        "stem": "Question 7（具体问题见录音）",
+        "options": {
+          "A": "Put 400 more electric bikes on its streets.",
+          "B": "Increase the program funding by 8 percent.",
+          "C": "Resume its electric bike incentive program.",
+          "D": "Invest millions of dollars into the local economy."
+        }
+      }
+    ]
+  }
+}

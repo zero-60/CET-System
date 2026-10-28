@@ -1,0 +1,38 @@
+{
+  "question_id": "cet4_2026_06_paper1_news01",
+  "type": "listening",
+  "title": "短篇新闻一",
+  "exam": {
+    "level": "cet4",
+    "year": 2026,
+    "session": "06",
+    "paper": "1"
+  },
+  "content": {
+    "subtype": "news",
+    "audio_url": "/audio/cet4/2026-06/paper1/full.mp3",
+    "duration_seconds": 1101.009,
+    "questions": [
+      {
+        "question_no": 1,
+        "stem": "Question 1（具体问题见录音）",
+        "options": {
+          "A": "He had bought meals with his online food ordering account.",
+          "B": "His son had used his cell phone to pay for playing a game.",
+          "C": "His son had ordered food from several restaurants.",
+          "D": "He had dined out at a famous five-star restaurant."
+        }
+      },
+      {
+        "question_no": 2,
+        "stem": "Question 2（具体问题见录音）",
+        "options": {
+          "A": "Teach his son a lesson.",
+          "B": "Change his password.",
+          "C": "Ask his neighbors for help.",
+          "D": "Buy a bigger refrigerator."
+        }
+      }
+    ]
+  }
+}

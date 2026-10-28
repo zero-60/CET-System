@@ -1,0 +1,58 @@
+{
+  "question_id": "cet4_2026_06_paper1_passage03",
+  "type": "listening",
+  "title": "听力短文三",
+  "exam": {
+    "level": "cet4",
+    "year": 2026,
+    "session": "06",
+    "paper": "1"
+  },
+  "content": {
+    "subtype": "passage",
+    "audio_url": "/audio/cet4/2026-06/paper1/full.mp3",
+    "duration_seconds": 1101.009,
+    "questions": [
+      {
+        "question_no": 22,
+        "stem": "Question 22（具体问题见录音）",
+        "options": {
+          "A": "They planned to adopt a pet animal.",
+          "B": "They kept not only a dog but a cat.",
+          "C": "They had at least one pet.",
+          "D": "They liked cats more than dogs."
+        }
+      },
+      {
+        "question_no": 23,
+        "stem": "Question 23（具体问题见录音）",
+        "options": {
+          "A": "A sense of pride.",
+          "B": "A sense of duty.",
+          "C": "A sense of purpose.",
+          "D": "A sense of security."
+        }
+      },
+      {
+        "question_no": 24,
+        "stem": "Question 24（具体问题见录音）",
+        "options": {
+          "A": "A few problems with keeping big animals.",
+          "B": "Some disadvantages related to pet ownership.",
+          "C": "A few cases of getting attacked by pet animals.",
+          "D": "Some conflicts with neighbors due to pet keeping."
+        }
+      },
+      {
+        "question_no": 25,
+        "stem": "Question 25（具体问题见录音）",
+        "options": {
+          "A": "Reduce as many symptoms of depression as medical help.",
+          "B": "Improve people's health as much as physical activities.",
+          "C": "Lower older people's stress as effectively as exercising.",
+          "D": "Bring many of the same benefits as human social support."
+        }
+      }
+    ]
+  }
+}

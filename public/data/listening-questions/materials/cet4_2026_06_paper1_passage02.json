@@ -1,0 +1,48 @@
+{
+  "question_id": "cet4_2026_06_paper1_passage02",
+  "type": "listening",
+  "title": "听力短文二",
+  "exam": {
+    "level": "cet4",
+    "year": 2026,
+    "session": "06",
+    "paper": "1"
+  },
+  "content": {
+    "subtype": "passage",
+    "audio_url": "/audio/cet4/2026-06/paper1/full.mp3",
+    "duration_seconds": 1101.009,
+    "questions": [
+      {
+        "question_no": 19,
+        "stem": "Question 19（具体问题见录音）",
+        "options": {
+          "A": "They are taking in a lot of plastic.",
+          "B": "They are polluting the environment.",
+          "C": "They consume much processed food.",
+          "D": "They make everything with plastics."
+        }
+      },
+      {
+        "question_no": 20,
+        "stem": "Question 20（具体问题见录音）",
+        "options": {
+          "A": "Beer, salts and added sugars.",
+          "B": "Tap water and take-away food.",
+          "C": "Food packages and plastic bags.",
+          "D": "Air, bottled water and seafood."
+        }
+      },
+      {
+        "question_no": 21,
+        "stem": "Question 21（具体问题见录音）",
+        "options": {
+          "A": "How much plastic there is in the remaining 85% of Americans' typical diet.",
+          "B": "What measures can be taken to prevent plastic objects from fragmenting.",
+          "C": "What harm microplastics may actually do to the average Americans.",
+          "D": "How many ways there are for microplastics to get into food and air."
+        }
+      }
+    ]
+  }
+}

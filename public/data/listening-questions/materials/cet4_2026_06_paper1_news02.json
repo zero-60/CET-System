@@ -1,0 +1,38 @@
+{
+  "question_id": "cet4_2026_06_paper1_news02",
+  "type": "listening",
+  "title": "短篇新闻二",
+  "exam": {
+    "level": "cet4",
+    "year": 2026,
+    "session": "06",
+    "paper": "1"
+  },
+  "content": {
+    "subtype": "news",
+    "audio_url": "/audio/cet4/2026-06/paper1/full.mp3",
+    "duration_seconds": 1101.009,
+    "questions": [
+      {
+        "question_no": 3,
+        "stem": "Question 3（具体问题见录音）",
+        "options": {
+          "A": "They examined how visitors affected animal behaviour in zoos.",
+          "B": "They studied when the best time to feed animals in public was.",
+          "C": "They studied how animals adapted themselves to life in zoos.",
+          "D": "They examined what behaviours indicated animal boredom."
+        }
+      },
+      {
+        "question_no": 4,
+        "stem": "Question 4（具体问题见录音）",
+        "options": {
+          "A": "They socialise with zookeepers as well as with each other.",
+          "B": "They show good adaptability to living with humans.",
+          "C": "They have been kept as pets by humans.",
+          "D": "They have been born and raised in zoos."
+        }
+      }
+    ]
+  }
+}

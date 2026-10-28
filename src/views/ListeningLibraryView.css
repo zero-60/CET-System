@@ -1,0 +1,92 @@
+
+.catalog-shell {
+  width: min(1080px, calc(100% - 36px));
+  margin: 0 auto;
+  padding: 36px 0 60px;
+  color: #252a39;
+}
+.catalog-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 22px;
+}
+.catalog-header h1 { font-size: 30px; margin: 4px 0 7px; letter-spacing: -.04em; }
+.catalog-header p { margin: 0; color: #7c8496; line-height: 1.7; font-size: 13px; }
+.catalog-eyebrow {
+  color: #7d8acb !important;
+  font-size: 11px !important;
+  letter-spacing: .15em;
+  font-weight: 800;
+}
+.catalog-demo-link {
+  flex-shrink: 0;
+  text-decoration: none;
+  color: white;
+  background: #4b5adb;
+  border-radius: 11px;
+  padding: 12px 16px;
+  font-weight: 700;
+  font-size: 13px;
+}
+.catalog-notice {
+  margin: 27px 0 18px;
+  background: #f1f3ff;
+  border: 1px solid #e0e4ff;
+  border-radius: 14px;
+  padding: 16px 18px;
+}
+.catalog-notice strong { color: #4a56bc; font-size: 14px; }
+.catalog-notice p { color: #676e8e; margin: 6px 0 0; font-size: 12px; line-height: 1.7; }
+.catalog-filter-panel {
+  display: flex; flex-wrap: wrap;
+  gap: 18px; padding: 18px;
+  background: white; border: 1px solid #e8eaf1; border-radius: 15px;
+}
+.catalog-filter-panel label { display: flex; flex-direction: column; gap: 7px; flex: 1; min-width: 145px; color: #676f82; font-size: 12px; }
+.catalog-filter-panel select { min-height: 40px; padding: 0 11px; border: 1px solid #e1e4ec; border-radius: 9px; background: #fff; color: #2b3142; }
+.catalog-stat-row { display: flex; gap: 13px; margin: 15px 0 21px; }
+.catalog-stat-row > div { display: flex; flex-direction: column; gap: 4px; min-width: 110px; flex: 1; border: 1px solid #e7eaf2; border-radius: 13px; background: white; padding: 13px 17px; }
+.catalog-stat-row strong { font-size: 23px; }
+.catalog-stat-row span { color: #8a93a3; font-size: 11px; }
+.catalog-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
+.catalog-paper {
+  display: flex; align-items: stretch; flex-direction: column; gap: 12px;
+  padding: 18px; border: 1px solid #e5e8ef; border-radius: 15px;
+  background: #fff; text-align: left; cursor: pointer;
+}
+.catalog-paper:hover,.catalog-paper-active { border-color: #8490e8; box-shadow: 0 5px 19px rgba(70,88,217,.07); }
+.catalog-paper strong { font-size: 15px; color: #202532; }
+.catalog-paper-top { display: flex; justify-content: space-between; align-items: center; }
+.catalog-paper-level { color: #4859c9; background: #eef0ff; border-radius: 5px; padding: 5px 7px; font-size: 10px; font-weight: 800; }
+.catalog-paper-status { color: #8a92a0; font-size: 11px; }
+.catalog-file-row { display: flex; gap: 15px; font-size: 12px; }
+.catalog-found { color: #15845b; }
+.catalog-missing { color: #a4a9b4; }
+.catalog-audio { display: inline-flex; width: fit-content; border-radius: 7px; padding: 6px 9px; font-size: 11px; }
+.audio-named { background: #e9f8ef; color: #17845c; }
+.audio-unassigned,.audio-multiple { background: #fff4df; color: #a36c1d; }
+.audio-missing { background: #f3f4f7; color: #868c9d; }
+.catalog-detail { display: flex; justify-content: space-between; gap: 18px; margin-top: 20px; padding: 20px; border-radius: 16px; border: 1px solid #dfe3f9; background: #fafbff; }
+.catalog-detail h2 { font-size: 18px; margin: 5px 0 10px; }
+.catalog-detail p { color: #70788e; margin: 5px 0; font-size: 12px; line-height: 1.7; }
+.catalog-detail-mark { flex-shrink: 0; color: #906d35; font-size: 11px; padding-top: 3px; }
+.catalog-empty { background: white; border-radius: 15px; padding: 35px 20px; text-align: center; color: #768092; }
+.catalog-error { color: #a23c48; }
+.catalog-empty code { overflow-wrap: anywhere; }
+.catalog-empty button { padding: 9px 13px; border: none; border-radius: 8px; color: white; background: #4859c9; }
+.catalog-footer { text-align: center; color: #979eaa; margin-top: 28px; font-size: 11px; }
+@media (max-width: 850px) {
+ .catalog-grid { grid-template-columns: repeat(2, minmax(0,1fr)); }
+}
+@media (max-width: 560px) {
+ .catalog-shell { width: calc(100% - 22px); padding-top: 19px; }
+ .catalog-header { align-items: flex-start; flex-direction: column; }
+ .catalog-header h1 { font-size: 24px; }
+ .catalog-grid { grid-template-columns: 1fr; }
+ .catalog-detail { flex-direction: column; }
+ .catalog-stat-row > div { min-width: 0; padding: 11px; }
+ .catalog-stat-row strong { font-size: 20px; }
+}
+
+.catalog-preview-link { display: inline-block; text-decoration: none; background: #4658d9; color: white; padding: 10px 14px; border-radius: 9px; font-weight: 700; font-size: 12px; margin-top: 11px; }

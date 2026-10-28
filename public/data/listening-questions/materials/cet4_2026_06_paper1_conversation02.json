@@ -1,0 +1,58 @@
+{
+  "question_id": "cet4_2026_06_paper1_conversation02",
+  "type": "listening",
+  "title": "长对话二",
+  "exam": {
+    "level": "cet4",
+    "year": 2026,
+    "session": "06",
+    "paper": "1"
+  },
+  "content": {
+    "subtype": "conversation",
+    "audio_url": "/audio/cet4/2026-06/paper1/full.mp3",
+    "duration_seconds": 1101.009,
+    "questions": [
+      {
+        "question_no": 12,
+        "stem": "Question 12（具体问题见录音）",
+        "options": {
+          "A": "How to fit into the bigger picture.",
+          "B": "How to get on with colleagues.",
+          "C": "How to create a solid first impression.",
+          "D": "How to succeed in a new job."
+        }
+      },
+      {
+        "question_no": 13,
+        "stem": "Question 13（具体问题见录音）",
+        "options": {
+          "A": "Get familiar with all the details of his job description.",
+          "B": "Learn about the relations within the organization.",
+          "C": "Recognize his own limitations and weaknesses.",
+          "D": "Understand his role from various perspectives."
+        }
+      },
+      {
+        "question_no": 14,
+        "stem": "Question 14（具体问题见录音）",
+        "options": {
+          "A": "Learning history.",
+          "B": "Meeting his boss.",
+          "C": "Creating reports for other departments to use.",
+          "D": "Leaving his coworkers in the present company."
+        }
+      },
+      {
+        "question_no": 15,
+        "stem": "Question 15（具体问题见录音）",
+        "options": {
+          "A": "Get to know the decision-makers.",
+          "B": "Acquire decision-making authority.",
+          "C": "Promote its products and services.",
+          "D": "Observe its overall management."
+        }
+      }
+    ]
+  }
+}
